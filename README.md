@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**cynoboo/cynoboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://files.catbox.moe/luuf0z.jpg"
+	height=400></p> 
+  <p align="center"><b>you can put text here bby</b><br>
+    <i>guess what more text here</i><br><br>
+  even more text!!<br>
+teeeext<br>
+teext text<br>
+text<br><br>  
+	  <b>more</b> text <br><br>
+  ☆☆☆
+  <br><br><sub>art by smiuffzo on tumblr</sub></p>
